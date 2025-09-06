@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Portfolio - Christ Berty</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; background: #f4f4f4; }
+    h1 { color: #333; }
+    .section { margin-bottom: 30px; }
+  </style>
+</head>
+<body>
+  <h1>Bienvenue sur mon Portfolio</h1>
+  <div class="section">
+    <h2>À propos</h2>
+    <p>Je suis Christ Berty, peintre, illustrateur et designer. Mon univers artistique explore les cultures du monde entier.</p>
+  </div>
+  <div class="section">
+    <h2>Projets</h2>
+    <ul>
+      <li>🎨 Peintures et illustrations</li>
+      <li>👕 Collaborations en mode et streetwear</li>
+      <li>🌍 Design inspiré des cultures du monde</li>
+    </ul>
+  </div>
+  <div class="section">
+    <h2>Contact</h2>
+    <p>Email : christberty@example.com</p>
+  </div>
+</body>
+</html>
